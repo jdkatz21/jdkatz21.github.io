@@ -3,12 +3,12 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Research"
-    url: /research/    
+ # - title: "Research"
+  #  url: /research/    
 
-  - title: "Other Writing"
-    url: /writing/    
+  #- title: "Other Writing"
+   # url: /writing/    
     
-  - title: "Personal"
-    url: /personal/
+  #- title: "Personal"
+  #  url: /personal/
         
