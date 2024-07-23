@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"
   name             : "Jared Dean Katz"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : #"he/him" # example: "she/her"  
   bio              : "Fed Board RA, Aspiring Economics Researcher"
   location         : # "Earth"
   employer         : #"Federal Reserve, Board of Governors"
