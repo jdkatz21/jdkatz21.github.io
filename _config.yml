@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"
   name             : "Jared Dean Katz"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Federal Reserve, Board of Governors"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Fed Board RA, Aspiring Economics Researcher"
+  location         : # "Earth"
+  employer         : #"Federal Reserve, Board of Governors"
   uri              : # URL
   email            : "jareddeankatz@gmail.com" 
 
