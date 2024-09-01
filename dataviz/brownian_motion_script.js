@@ -121,7 +121,7 @@ d3.csv('brownian_motions.csv').then(function(data) {
         for (let i = 0; i < data.length; i += step) {
             const t = i / (data.length - 1) * 4;  // Calculate the corresponding x value (0 to 2 range)
             console.log(t)
-            sampledData.push({ x: t / 2, y: data[i] });
+            sampledData.push({ x: t, y: data[i] });
 
         }
         
@@ -231,7 +231,7 @@ d3.csv('brownian_motions.csv').then(function(data) {
             .y(d => yScale(d));
 
         const line = d3.line()
-            .x(d => xScale(d.x)) 
+            .x(d => xScale(d.x / 2)) 
             .y(d => yScale(d.y))
 
         // Append lines for each walk on the same chart with consistent colors
