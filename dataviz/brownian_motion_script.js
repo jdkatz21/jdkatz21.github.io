@@ -217,7 +217,7 @@ d3.csv('brownian_motions.csv').then(function(data) {
 
         // Set up the scales with fixed domains
         xScale = d3.scaleLinear()
-            .domain([0, 4])  // The x-axis represents the steps in the walk
+            .domain([0, 2])  // The x-axis represents the steps in the walk
             .range([0, width/2]);
 
         yScale = d3.scaleLinear()
