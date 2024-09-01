@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Walks Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+    <div class="menu">
+        <div class="menu-header">Brownian Motion</div>
+
+        <div class="flex-row">
+            <label for="dt-slider">Adjust dt:</label>
+            <span id="dt-value" class="output">1</span>
+        </div>
+        <div class="flex-row">
+            <input type="range" id="dt-slider" min="0" max="100" step="10" value="100">
+        </div>
+        
+        <div class="flex-row">
+            <label for="walkCount">Number of Walks:</label>
+            <input type="number" id="walkCount" min="1" max="10" value="1" step="1">    
+        </div>
+
+
+        <label for="showDistribution">Show 95% Confidence Bounds</label>
+        <label class="switch">
+            <input type="checkbox" id="showStdDev">
+            <span class="slider"></span>
+        </label>
+
+        <button id="refreshButton">Refresh Chart</button>
+
+    </div>
+
+    <div class="chart"></div>
+    
+    <script src="brownian_motion_script.js"></script> <!-- Link to your script file -->
+
+</body>
+</html>
