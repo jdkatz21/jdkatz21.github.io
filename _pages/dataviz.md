@@ -1,12 +1,7 @@
 ---
-layout: archive
-title: "Data Viz"
-permalink: /data_viz/
-author_profile: true
+layout: page
+title: "Data Visualizations"
+permalink: /dataviz/
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Optional: add content or include the list of visualizations -->
