@@ -213,7 +213,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   dataviz:
-    output:true
+    output: true
     permalink: /:collection/:path/
 
 
