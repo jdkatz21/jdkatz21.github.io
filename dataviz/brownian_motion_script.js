@@ -126,7 +126,9 @@ d3.csv('brownian_motions.csv').then(function(data) {
         }
 
         // sampledData.push({x:+2, y: data[data.length - 1]});
-
+        let sampledData = sampledData.map(point => {
+            return {x: point.x * 0.5, y: point.y};
+        });
         return sampledData;
 
         
@@ -156,6 +158,7 @@ d3.csv('brownian_motions.csv').then(function(data) {
     // });
     // }
 
+    
 
     // Function to refresh with a new random walk
     function refreshWalk() {
