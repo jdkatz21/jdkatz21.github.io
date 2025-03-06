@@ -6,9 +6,9 @@ main:
   - title: "Data Viz"
     url: /dataviz/    
 
-  #- title: "Other Writing"
-   # url: /writing/    
+  - title: "Research"
+    url: /research/    
     
-  #- title: "Personal"
-  #  url: /personal/
+  - title: "Personal"
+    url: /personal/
         
