@@ -1,5 +1,5 @@
 # Works in progress
-
+___
 ## What Drives the Changing Stock-Bond Correlation Post-Covid?
 **Authors:** Jared Katz, Canlin Li, Marius Rodriguez  
 **Abstract:** When bonds prices and stock prices move in opposite directions, it signals that investors can hedge for growth-focused assets (stocks)
