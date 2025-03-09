@@ -10,7 +10,7 @@ I like sharing the things that I think are cool. My hope is that you might also 
 
 Take a look at some of the things I've made. All of the code to replicate these entirely locally are available on my GitHub in my data_visualizations project.
 
-## Interactive Yield Curve
+## Interactive Yield Curve (will take a second to load)
 At the Fed, I deal a lot with treasury yields. One thing I realized is that there really isn't a good source on the internet to play around with the yield curve (FRED only has timeseries of yield spreads) that isn't ridden with ads or popups. So I made one! It's pretty fun to look at what treasury yields were up to on any important day of your life (they say yield spreads are the window to one's soul...). I also made a YouTube video showing the evolution of yields from the start of the Fed's data until now. It's fun to see how the yield curve jumps in response to big economic events, and gives an interesting perspective as to how volatile these spreads are.
 
 <iframe src="https://jareddeankatz.shinyapps.io/yield_curve_shiny/" 
