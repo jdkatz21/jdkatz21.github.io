@@ -37,7 +37,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  gate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -218,6 +218,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  personal:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -261,6 +264,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true 
+      # _personal
+  - scope:
+      path: ""
+      type: personal
     values:
       layout: single
       author_profile: true
