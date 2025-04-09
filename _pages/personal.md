@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+
 I like economics. I also like other things. 
 
 In college I was the President and Captain of Vanderbilt Men's Club Volleyball, where we were the DII AA National Champions. Nowadays, I play beach volleyball almost every day, weather permitting.
