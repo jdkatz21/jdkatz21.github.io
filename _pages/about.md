@@ -11,4 +11,4 @@ Hi, I'm Jared. I'm a Research Assistant at the Federal Reserve, Board of Governo
 
 Currently, I'm doing research on a couple projects documenting relationships between macroeconomic events and financial market uncertainty.
 
-After leaving the Fed, I intend to pursue a PhD in Economics or Finance to explore these topics further.
+After leaving the Fed, I'll be a PhD student in Financial Economics at Northwestern, a joint program between the Economics and Finance departments.
