@@ -1,4 +1,11 @@
 ___
+title: Kalshi and the Rise of Macro Markets ([Anthony Diercks][https://www.anthonydiercks.com/], Jared Katz, Johnathan Wright)
+description: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overseen by the CFTC. We compare Kalshi with more traditional survey and market-implied forecasts, examine how expectations respond to macroeconomic and financial news, and how policy signals are interpreted by market participants. Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers.
+[Paper][https://www.nber.org/papers/w34702]
+layout:archive
+---
+
+___
 title: What Drives the Changing Stock-Bond Correlation Post-Covid? (Jared Katz, Canlin Li, Marius Rodriguez)
 description: When bonds prices and stock prices move in opposite directions, it signals that investors can hedge for growth-focused assets (stocks)
 with inflation-focused assets (bonds). While the stock-bond correlation was negative for virtually the entire 21st century, it shifts positive during Covid, and remains there today. 
@@ -17,9 +24,5 @@ layout:archive
 ---
 
 
-___
-title: Underestimating the Fed (Anthony Diercks, Jared Katz, Eric Swanson)
-description: One way to measure how investors perceive monetary policy's reaction to inflation news would be to estimate a version of the Taylor rule using high-frequency changes in inflation and US Treasuries markets. However, we note that these observed Taylor rule coefficients can be biased, since when markets ingest news that updates their inflation expectations they are endogenously updating their expectations for the strength of monetary policy. We provide narrative evidence of this behavior, show empirically that it suppresses market-based estimates of Taylor rule coefficients, and uncover using a DSGE model the conditions needed to create this bias in estimation.
-layout:archive
----
+
 
