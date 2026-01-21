@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+### Working Papers
+
+---
+
+## Kalshi and the Rise of Macro Markets [Link][https://www.nber.org/papers/w34702]
+
+with [Anthony Diercks][anthonydiercks.com/] and [Jonathan Wright][https://econ.jhu.edu/directory/jonathan-wright/]
+
+Abstract: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overseen by the CFTC. We compare Kalshi with more traditional survey and market-implied forecasts, examine how expectations respond to macroeconomic and financial news, and how policy signals are interpreted by market participants. Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers.
+
 ### Works in progress...
 
 ## What Drives the Changing Stock-Bond Correlation Post-Covid? 
@@ -18,12 +28,4 @@ When bonds prices and stock prices move in opposite directions, it signals that 
 with Marcelo Ochoa
 
 Do short-run and long-run uncertainty affect macroeconomic growth in different ways? Exploiting the horizon-dimension of treasuries, we note that treasury market volatility at different horizons are associated with future output and employment in different ways. We construct an endowment economy model with both persistent and transitory shocks to volatility of consumption. We calibrate our model to the data to understand the different relationships between uncertainty horizons and the economy.
-
----
-
-## Underestimating the Fed
-
-with Anthony Diercks and Eric Swanson
-
-One way to measure how investors perceive monetary policy's reaction to inflation news would be to estimate a version of the Taylor rule using high-frequency changes in inflation and US Treasuries markets. However, we note that these observed Taylor rule coefficients can be biased, since when markets ingest news that updates their inflation expectations they are endogenously updating their expectations for the strength of monetary policy. We provide narrative evidence of this behavior, show empirically that it suppresses market-based estimates of Taylor rule coefficients, and uncover using a DSGE model the conditions needed to create this bias in estimation.
 
