@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## Kalshi and the Rise of Macro Markets [Link](https://www.nber.org/papers/w34702)
+## Kalshi and the Rise of Macro Markets [[Link]](https://www.nber.org/papers/w34702)
 
 with [Anthony Diercks](anthonydiercks.com/) and [Jonathan Wright](https://econ.jhu.edu/directory/jonathan-wright/)
 
