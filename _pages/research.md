@@ -11,7 +11,7 @@ author_profile: true
 
 ## Kalshi and the Rise of Macro Markets [[Link]](https://www.nber.org/papers/w34702)
 
-with [Anthony Diercks](anthonydiercks.com/) and [Jonathan Wright](https://econ.jhu.edu/directory/jonathan-wright/)
+with [Anthony Diercks](https://anthonydiercks.com/) and [Jonathan Wright](https://econ.jhu.edu/directory/jonathan-wright/)
 
 Abstract: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overseen by the CFTC. We compare Kalshi with more traditional survey and market-implied forecasts, examine how expectations respond to macroeconomic and financial news, and how policy signals are interpreted by market participants. Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers.
 
