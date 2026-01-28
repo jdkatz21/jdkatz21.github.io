@@ -15,7 +15,7 @@ with [Anthony Diercks](https://anthonydiercks.com/) and [Jonathan Wright](https:
 
 Abstract: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overseen by the CFTC. We compare Kalshi with more traditional survey and market-implied forecasts, examine how expectations respond to macroeconomic and financial news, and how policy signals are interpreted by market participants. Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers.
 
-Coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-28/kalshi-fed-forecasts-are-as-good-as-wall-street-s-study-says)
+Coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-28/kalshi-fed-forecasts-are-as-good-as-wall-street-s-study-says), [Fortune](https://fortune.com/2026/01/28/kalshi-prediction-market-federal-reserve-betting-forecast-nber-working-paper/?preview_id=4406819)
 
 ### Works in progress...
 
