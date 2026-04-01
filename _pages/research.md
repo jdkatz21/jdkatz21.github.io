@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## Kalshi and the Rise of Macro Markets [[Link]](../files/Prediction_Markets_2026_04.pdf)
+## Kalshi and the Rise of Macro Markets [[Link]](https://www.jareddeankatz.com/files/Prediction_Markets_2026_04.pdf)
 
 with [Anthony Diercks](https://anthonydiercks.com/) and [Jonathan Wright](https://econ.jhu.edu/directory/jonathan-wright/)
 
